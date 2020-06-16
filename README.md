@@ -2,8 +2,6 @@
 
 This repository contains my solutions to all the materials, namely quizes and programming assignments of the [Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) course taught by prof. Andrew Ng. Anyone can freely use the contents of the repository. Please, contact me if you have further questions related to the contents.
 
-
-
 ## Contents
 
 - #### a) week-1: Introduction and Linear Regression with One Variable
